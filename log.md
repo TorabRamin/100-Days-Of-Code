@@ -29,3 +29,14 @@
 **Link(s) to work**
 * [Live link of Natorus app](https://natours.meetramin.com)
 * [Project GitHub Link](https://github.com/TorabRamin/Natours-App)
+
+
+### Day 1: Dec 2, 2019
+
+**Today's Progress**: learn about React Component, A little bit JSX.
+
+**Thoughts**: From today have start a new React course form [Udemy](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/). Already completed 1-28 classes...
+
+**Link(s) to work**
+* [Live link of Natorus app](https://natours.meetramin.com)
+* [Project GitHub Link](https://github.com/TorabRamin/Natours-App)
