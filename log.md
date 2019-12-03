@@ -20,7 +20,7 @@
 # 100 Days Of Code - Log 📆
 
 
-### Day 0: Dec 1, 2019
+### 👉 Day 0: Dec 1, 2019
 
 **Today's Progress**: Finished Natours Project From udemy.
 
@@ -31,7 +31,7 @@
 * [Project GitHub Link](https://github.com/TorabRamin/Natours-App)
 
 
-### Day 1: Dec 2, 2019
+### 👉 Day 1: Dec 2, 2019
 
 **Today's Progress**: learn about React Component, A little bit JSX.
 
@@ -39,7 +39,7 @@
 
 
 
-### Day 2: Dec 3, 2019
+### 👉 Day 2: Dec 3, 2019
 
 **Today's Progress**: Review JavaScript map, filter, includes, promise, Async Await, find, reduce. And create a small simple react app.
 
