@@ -37,6 +37,12 @@
 
 **Thoughts**: From today have start a new React course form [Udemy](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/). Already completed 1-28 classes...
 
+
+
+### Day 2: Dec 3, 2019
+
+**Today's Progress**: Review JavaScript map, filter, includes, promise, Async Await, find, reduce. And create a small simple react app.
+
 **Link(s) to work**
-* [Live link of Natorus app](https://natours.meetramin.com)
-* [Project GitHub Link](https://github.com/TorabRamin/Natours-App)
+* [Live link of Human rolodex app](https://rolodex.meetramin.com/) 📇
+* [Project GitHub Link](https://github.com/TorabRamin/Human-Rolodex)
