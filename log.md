@@ -17,8 +17,8 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
-# 100 Days Of Code - Log 📆
 
+# 100 Days Of Code - Log 📆
 
 ### 👉🏻 Day 0: Dec 1, 2019
 
@@ -27,9 +27,9 @@
 **Thoughts**: I'm struggling with javaScript. Finally, I have been completed the [Node.js Udemy Course](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) It's taken almost 1 month to finish this course but I'm pretty happy with my progress... 😊
 
 **Link(s) to work**
-* [Live link of Natorus app](https://natours.meetramin.com)
-* [Project GitHub Link](https://github.com/TorabRamin/Natours-App)
 
+- [Live link of Natorus app](https://natours.meetramin.com)
+- [Project GitHub Link](https://github.com/TorabRamin/Natours-App)
 
 ### 👉🏻 Day 1: Dec 2, 2019
 
@@ -37,12 +37,15 @@
 
 **Thoughts**: From today have start a new React course form [Udemy](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/). Already completed 1-28 classes...
 
-
-
 ### 👉🏻 Day 2: Dec 3, 2019
 
 **Today's Progress**: Review JavaScript map, filter, includes, promise, Async Await, find, reduce. And create a small simple react app.
 
 **Link(s) to work**
-* [Live link of Human rolodex app](https://rolodex.meetramin.com/) 📇
-* [Project GitHub Link](https://github.com/TorabRamin/Human-Rolodex)
+
+- [Live link of Human rolodex app](https://rolodex.meetramin.com/) 📇
+- [Project GitHub Link](https://github.com/TorabRamin/Human-Rolodex)
+
+### 👉🏻 Day 3: Dec 4, 2019
+
+**Today's Progress**: Start a new e-commerce project with using react.
