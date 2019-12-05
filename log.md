@@ -49,3 +49,7 @@
 ### 👉🏻 Day 3: Dec 4, 2019
 
 **Today's Progress**: Start a new e-commerce project with using react.
+
+### 👉🏻 Day 4: Dec 5, 2019
+
+**Today's Progress**: Add authentication with firebase on react project.
